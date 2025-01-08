@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, welcome to my GitHub profile. <br>I am Siddhi Dabholkar, a graduate student at the University of Illinois Chicago pursuing a Master's in Computer Science.<br>🔭 I’m currently working on a full-stack web application called InnSight for hotel bookings - implementing the MERN stack<br>👯 I’m looking to collaborate on Data Science/ AI projects<br>🤝 I’m seeking help finding better resources to learn Data Analytics.<br>🌱 I’m currently learning Data Analysis<br>⚡ Fun fact : I like to read - fiction, non-fiction, mythology, folklore (anything but your journal 🙂‍↔️)
+Hello, welcome to my GitHub profile. <br>I am Siddhi Dabholkar, a graduate student at the University of Illinois Chicago pursuing a Master's in Computer Science.<br>🔭 I’m currently working on a full-stack web application called InnSight for hotel bookings - implementing the MERN stack<br>👯 I’m looking to collaborate on Data Science/ AI projects<br>🤝 I’m seeking help finding better resources to learn Data Analytics.<br>🌱 I’m currently learning Data Analysis<br>⚡ Fun fact : I like to read - fiction, non-fiction, mythology, folklore...
 
 
 ## 🌐 Socials:
