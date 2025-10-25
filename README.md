@@ -1,6 +1,3 @@
-# 💫 About Me:
-Hello, welcome to my GitHub profile. <br>I am Siddhi Dabholkar, a graduate student at the University of Illinois Chicago pursuing a Master's in Computer Science.<br>🔭 I’m currently working on a full-stack web application called InnSight for hotel bookings - implementing the MERN stack<br>👯 I’m looking to collaborate on Data Science/ AI projects<br>🤝 I’m seeking help finding better resources to learn Data Analytics.<br>🌱 I’m currently learning Data Analysis<br>⚡ Fun fact : I like to read - fiction, non-fiction, mythology, folklore...
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhi-dabholkar10) 
@@ -11,9 +8,6 @@ Hello, welcome to my GitHub profile. <br>I am Siddhi Dabholkar, a graduate stude
 ![](https://github-readme-stats.vercel.app/api?username=SiddhiDabholkar10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SiddhiDabholkar10&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhiDabholkar10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SiddhiDabholkar10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SiddhiDabholkar10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
