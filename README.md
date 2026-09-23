@@ -82,8 +82,7 @@ Java - Spring Boot, Python, JavaScript.
 ![Amazon Q](https://img.shields.io/badge/Amazon%20Q-FF9900?style=plastic&logo=amazonwebservices&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhiDabholkar10&theme=tokyonight&layout=compact&hide_border=true&cache_seconds=86400)
-![Siddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddhiDabholkar10&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Siddhi's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddhiDabholkar10&theme=tokyonight)
 
 
